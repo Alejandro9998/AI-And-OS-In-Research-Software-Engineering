@@ -1,0 +1,6 @@
+os
+glob
+nltk
+wordcloud
+matplotlib
+bs4
